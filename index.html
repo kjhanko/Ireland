@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Irish Speakers in Ireland</title>
+	<!--external stylesheet-->
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nova+Oval">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Macondo+Swash+Caps">
+</head>
+
+<body>
+	<div class="container" id="title"><img src="img/title.svg"></div>
+	<span id="gael"><img id="orangebox" src="img/orangebox.png">  Gaeltacht Areas
+				<div class="popup" onclick="popupFunction()"><img id="question" src="img/question.png">
+					<span class="popuptext" id="myPopup">
+						<h3>Gaeltacht</h3>
+						<p>Regions or communities where Irish (Gaeilge) is the main spoken language for
+							the local population are known as	Gaeltacht. Government funded
+							measures help support the continuation of a bilingual society in
+							these areas.</p>
+				</div>
+	</span>
+	<div id="mapArea"></div>
+	<div id="linechart"></div>
+	<script type="text/javascript" src="lib/jquery-3.4.1.js">	</script>
+	<script type="text/javascript" src="lib/d3.js"></script>
+	<script type="text/javascript" src="lib/d3-selection-multi.min.js"></script>
+	<script type="text/javascript" src="lib/topojson.min.js"></script>
+	<script type="text/javascript" src="lib/simple-statistics.min.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript" src="js/linechart.js">	</script>
+	<script>
+// When the user clicks on <div>, open the popup
+function popupFunction() {
+	var popup = document.getElementById('myPopup');
+	popup.classList.toggle('show');
+}
+</script>
+</body>
+
+</html>

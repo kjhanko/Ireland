@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:xalan="http://xml.apache.org/xalan" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isotc211.org/2005/gmd">
+    <fileIdentifier>
+        <gco:CharacterString>aa3980fab81f466bb67f86f045ad14f0</gco:CharacterString>
+    </fileIdentifier>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact>
+        <CI_ResponsibleParty>
+            <role>
+                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+            </role>
+        </CI_ResponsibleParty>
+    </contact>
+    <dateStamp>
+        <gco:Date>2017-07-03</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>Gaeltacht Boundaries Ungeneralised - OSi National Statutory Boundaries</gco:CharacterString>
+                    </title>
+                    <date gco:nilReason="missing"/>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>Teorainneacha na Gaeltachta
+Neamhghinearálaithe. Shainigh Orduithe na Limistéar Gaeltachta, 1956, 1967,
+1974 agus 1982 an Ghaeltacht mar 155 Toghroinn nó páirteanna de Thoghranna i
+gcontaetha.Gaeltacht Boundaries Ungeneralised. The Gaeltacht Areas Orders, 1956, 1967, 1974 and 1982 defined the Gaeltacht as comprising 155 Electoral Divisions or parts of Electoral Divisions in the counties of Cork, Donegal, Galway, Kerry, Mayo, Meath and Waterford.</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>Teorainneacha na Gaeltachta Neamhghinearálaithe - Teorainneacha Reachtúla Náisiúnta OSi / Gaeltacht Boundaries Ungeneralised</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>Ordnance Survey Ireland</gco:CharacterString>
+            </credit>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>dgi:government</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>Foilsithe ag Suirbhéireacht Ordanáis
+Éireann.   Ceadúnaithe faoi Cheadúnas Sannta
+Creative Commons 4.0Tá na sonraí teorann
+agus topagrafacha uile atá á gcur ar fáil mar shonraí oscailte ag
+Suirbhéireacht Ordanáis Éireann (Osi) ginearálaithe, rud a fhágann laghdú agus
+simpliú ar ghnéithe a bhféadfadh éifeacht a bheith acu ar chruinneas agus níor
+cheart iad a úsáid ach ar mhaithe le tagairt amháin. Mar thoradh ar an
+bpróiseas seo, d’fhéadfadh nach mbeadh na teorainneacha atá á dtaispeáint i
+gomhréir le Boundary Survey (Ireland) Act(s). Ar do phriacal féin atá sé na
+sonraí a úsáid agus níl an Osi faoi dhliteanas ar bith maidir le hearráidí nó
+míchruinnis sna sonraí atá curtha ar fáil ná maidir leis na hiarmhairtí a
+bhainfeadh le gníomh ar bith a thógfaí ar bhonn an eolais atá tugtha.
+
+Ordnance
+Survey Ireland (OSi) content published as open data is
+licenced under a Creative Commons Attribution 4.0 International (CC BY 4.0)
+licence.
+
+All boundary and topographical data made available as open data
+by Ordnance Survey Ireland (OSi) that is generalised resulting in reduction and
+simplification of features which may affect accuracies and should be used for
+reference purposes only. The result of this process is that boundaries shown
+may not be in accordance with the Boundary Survey (Ireland) Act(s). All
+data is used at your own risk and OSi is in no way liable for any errors or
+inaccuracies in the data made available or for the consequences of any actions
+taken on the basis of the information provided.</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <topicCategory>
+                <MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+            </topicCategory>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <distributionInfo>
+        <MD_Distribution>
+            <transferOptions>
+                <MD_DigitalTransferOptions>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>http://services6.arcgis.com/uWTLlTypaM5QTKd2/arcgis/rest/services/Gaeltacht_Boundaries/FeatureServer/3</URL>
+                            </linkage>
+                        </CI_OnlineResource>
+                    </onLine>
+                </MD_DigitalTransferOptions>
+            </transferOptions>
+        </MD_Distribution>
+    </distributionInfo>
+</MD_Metadata>
